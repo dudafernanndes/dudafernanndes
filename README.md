@@ -139,7 +139,7 @@ Meu objetivo é crescer profissionalmente enquanto colaboro com projetos que ger
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="100" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=dudafernanndes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
